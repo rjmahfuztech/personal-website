@@ -16,10 +16,10 @@ p{
 .color-define{
     color:coral;
 }
-.hlaf-width img{
+.half-width img{
     width: 100%;
 }
-.hlaf-width{
+.half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
@@ -77,4 +77,53 @@ h2{
 }
 .three-colum img{
     width: 100%;
+}
+.forth-section{
+    height: 500px;
+    background-image: url('images/pic/bad-pic.jpg');
+    background-size: cover;
+}
+.forth-section h2{
+    text-align: center;
+    color: white;
+    margin-top: 0;
+
+}
+.half-width-class{
+    background-color: white;
+    padding: 1%;
+    height: 500px;
+    box-shadow: 5px 5px 20px #b3adad;
+    border-radius: 20px; 
+}
+.half-width-class img{
+    border-radius: 20px;
+}
+.half-width-class h3{
+    font-size: 30px;
+    color: rgb(4, 15, 53);
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.half-width-class p{
+    font-size: 20px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.bad-min{
+    width: 45%;
+    height: 162px;
+    float: left;
+    margin: 8px;
+    margin-bottom: 20px;
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #b3adad;
+}
+.bad-min img{
+    width: 100%; 
+    border-radius: 10px;  
+}
+.footer-section{
+    height: 500px;
 }
