@@ -5,7 +5,13 @@ body{
 }
 h1{
     font-size: 60px;
+    padding-top: 50px;
     color:rgb(4, 15, 53);
+}
+
+p{
+    padding-bottom: 20px;
+    font-weight: 500;
 }
 .color-define{
     color:coral;
@@ -27,4 +33,39 @@ h1{
     font-weight: 700;
     padding: 15px 30px;
     border-radius: 7px;
+}
+.top-section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.second-section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+h2{
+    font-size: 40px;
+    padding-top: 50px;
+    color: rgb(4, 15, 53);
+}
+.third-section{
+    height: 500px;
+    padding-bottom: 150px;
+    background-color: #f9f9f9;
+}
+.third-section h2{
+    text-align: center;
+    padding-top: 100px;
+}
+.three-colum{
+    width: 30%;
+    background-color: #fff;
+    float: left;
+    margin-left: 1%;
+    padding-left: ;
+}
+.three-colum .colum2{
+    margin-left: 4%;
+}
+.three-colum img{
+    width: 90%;
 }
