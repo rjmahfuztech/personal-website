@@ -48,24 +48,33 @@ h2{
     color: rgb(4, 15, 53);
 }
 .third-section{
-    height: 500px;
+    height: 650px;
     padding-bottom: 150px;
     background-color: #f9f9f9;
 }
 .third-section h2{
     text-align: center;
-    padding-top: 100px;
+    padding-top: 120px;
+    padding-bottom: 50px;
 }
 .three-colum{
-    width: 30%;
+    width: 25%;
+    height: 350px;
     background-color: #fff;
     float: left;
-    margin-left: 1%;
-    padding-left: ;
+    margin-left: 2%;
+    padding: 1%;
+    border-radius: 20px;
+    box-shadow: 8px 8px 15px rgba(41, 36, 36, 0.308);
 }
-.three-colum .colum2{
-    margin-left: 4%;
+.three-colum h3{
+    font-size: 25px;
+    color: rgb(4, 15, 53);
+}
+
+.colum2{
+    margin-left: 7%;
 }
 .three-colum img{
-    width: 90%;
+    width: 100%;
 }
